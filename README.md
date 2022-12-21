@@ -7,6 +7,15 @@
 2. Problem Statement
 3. Dataset Information
 4. Conclusion
+
+<p align="center">
+  <img 
+    width="750"
+    height="400"
+    src = "https://chl.co.in/front_assets/images/content1.gif">
+</p>
+
+
 *****
 1. Introduction
 
